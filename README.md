@@ -5,4 +5,4 @@
 ![Pythib Decorator Implentation](cs3910_hw1_q2_ss.png)
 ## Fibonacci Graph
 ![Fibonacci Graph](cs3910_hw1_q2_fibonacci_ss.png)
-hello
+The y-plot is the time it takes for that point takes to execute. x-plot is the Fibonacci number(n) through 100.
